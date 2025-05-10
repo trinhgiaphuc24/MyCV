@@ -1,119 +1,48 @@
-# GitHub Profile README Template 🎉
+# 👋 Hello, I'm Nguyen Van Bay
 
-## How to use:
+![Banner Image]([your_banner_image_url_here](https://lh5.googleusercontent.com/3EvDbRtpEiHlTGFCG70cgDRqUqzLjh7ftauN-oX0HQL6rFUgN4oZc7E_Rwk8vK0l5gho_Aldv-eCel7EGS7TwLdDQLOlxpZ8nWwl7tIRpi9VfXsnBPVqIJZXvEhyaWuO8g=w1280))
 
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
+## 🧑‍🔬 About Me
 
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
+I am a **Computer Scientist** and **Lecturer** at the Faculty of Information Technology, Ho Chi Minh City Open University (HOU), Vietnam.  
+Born and raised on **Phu Quoc Island**, I carry with me the spirit of exploration and resilience that continues to shape my journey in both academia and community engagement.
 
-# Hi there, I'm [Your Name]! 👋
+I obtained my **Bachelor's degree (2021)** and **Master’s degree (2023)** in **Computer Science** from HOU. Currently, I am pursuing my **Ph.D. in Artificial Intelligence**, where my research focuses on:
 
-![Banner Image](your_banner_image_url_here)
+- **Computer Vision**
+- **Optical Character Recognition (OCR)**
+- **Transformer-based Deep Learning Architectures**
+- **Mathematical Formula Recognition in Printed and Handwritten Documents**
 
-## About Me 🚀
+Beyond research, I am deeply engaged in educational innovation, student mentorship, and organizing academic–social initiatives aimed at empowering young learners in the field of computing.
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 🔬 Research Interests
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📄 Document Image Understanding
+- 🧠 Deep Neural Networks & Transformers
+- ✍️ Handwritten and Printed Text Recognition
+- 🤖 Multimodal Learning for Scientific Documents
+- 🔎 Knowledge Extraction from Visual Documents
 
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+## 📚 Scholar Profile
+ [https://scholar.google.com/citations?user=1oDzNQ0AAAAJ&hl=vi]
 
 
-</p>
-</details> 
+## 🛠️ Technical Proficiencies
 
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 📫 Contact
 
-```
-# Hi there, I'm [Your Name]! 👋
+- 🌍 [Website / Academic Blog](https://blog.baynv.io.vn)
+- 📧 baynv@ou.edu.vn
 
-![Banner Image](your_banner_image_url_here)
+---
 
-## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
-## Featured Projects 💻
-
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-
-```
-
-## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
+> *“Stay curious, stay humble, and use technology to serve humanity.”*
