@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Nguyen Van Bay
-
-![Banner Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png){ width=50px}
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="150">
 
 ## 🧑‍🔬 About Me
 
@@ -25,7 +24,7 @@ Beyond research, I am deeply engaged in educational innovation, student mentorsh
 - 🔎 Knowledge Extraction from Visual Documents
 
 ## 📚 Scholar Profile
- [https://scholar.google.com/citations?user=1oDzNQ0AAAAJ&hl=vi]
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1200px-Google_Scholar_logo.svg.png" width="25px"> Scholar](https://scholar.google.com/citations?user=1oDzNQ0AAAAJ&hl=vi)
 
 
 ## 🛠️ Technical Proficiencies
