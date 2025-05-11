@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nguyen Van Bay
 
-![Banner Image]([your_banner_image_url_here](https://lh5.googleusercontent.com/3EvDbRtpEiHlTGFCG70cgDRqUqzLjh7ftauN-oX0HQL6rFUgN4oZc7E_Rwk8vK0l5gho_Aldv-eCel7EGS7TwLdDQLOlxpZ8nWwl7tIRpi9VfXsnBPVqIJZXvEhyaWuO8g=w1280))
+![Banner Image]([your_banner_image_url_here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png))
 
 ## 🧑‍🔬 About Me
 
