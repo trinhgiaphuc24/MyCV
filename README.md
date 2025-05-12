@@ -1,9 +1,9 @@
-# 🧑‍💻 HỌ VÀ TÊN
+# 🧑‍💻 TRỊNH GIA PHÚC
 
-- 📞 09xxxxxxxx  
-- 📧 yourname@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
-- 📍 Quận X, TP.HCM
+- 📞 033224xxxx 
+- 📧 trinhgiaphuc24@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/trinhgiaphuc24/) • [GitHub](https://github.com/trinhgiaphuc24)  
+- 📍 Quận Gò Vấp, TP.HCM
 
 ---
 
